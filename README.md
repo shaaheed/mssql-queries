@@ -1,20 +1,5 @@
 # mssql-queries
 
-#### Table of  contents
-
-<ul>
-	<li>
-		<a>Database</a>
-		<ul>
-			<li>
-				<a href="#cerate-database">Create Database</a>
-				<a href="#rename-database">Rename Database</a>
-				<a href="#rename-database">Rename Database Using Stored Procedure</a>
-			</li>
-		</ul>
-	</li>
-</ul>
-
 ###### <span id="#cerate-databases">Create Database</span>
 ```sql
 create database test
